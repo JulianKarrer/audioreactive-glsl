@@ -8,9 +8,10 @@ Audio files specified in the script will be FFT-analysed per-frame and saved to 
 
 ## Example
 
-Example .bin files and a fancy mandelbulb shader are included, you can watch the result by clicking here:
+Example .bin files and a fancy mandelbulb shader are included, you can [watch the result here](https://vimeo.com/502148586)
 
-[![watch the video here](https://i.vimeocdn.com/video/1038968759.jpg)](https://vimeo.com/502148586)
+
+![GIF of the video](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/8e1073b6-4424-4934-9b23-d7276a777e9d.gif?ClientID=vimeo-core-prod&Date=1646618550&Signature=d8c3a0e901499dd9edf3574327bb795372fb3c01)
 
 ## Usage
 
